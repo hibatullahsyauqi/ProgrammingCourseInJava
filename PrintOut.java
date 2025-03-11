@@ -17,5 +17,8 @@ public class PrintOut {
         /**
          * this is a documentation command
          */
+
+        // escaping sequence with backslashes
+        System.out.println("These are double quotes \"\"\"\"");
     }
 }
