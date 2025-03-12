@@ -1,3 +1,5 @@
+package com.myapps.roflcopter;
+
 public class ROFLCOPTER {
     public static void main(String[] args) throws InterruptedException {
 
@@ -22,7 +24,7 @@ public class ROFLCOPTER {
             System.out.println("           I    I        ");
             System.out.println("        -----------/               ");
             System.out.println("                       ");
-            System.out.println("  Oki's ROFLCOPTER!                    ");
+            System.out.println("  Oki's com.myapps.roflcopter.ROFLCOPTER!                    ");
 
             Thread.sleep(100);
 
@@ -46,7 +48,7 @@ public class ROFLCOPTER {
             System.out.println("           I    I        ");
             System.out.println("        -----------/               ");
             System.out.println("                       ");
-            System.out.println("  Oki's ROFLCOPTER!                    ");
+            System.out.println("  Oki's com.myapps.roflcopter.ROFLCOPTER!                    ");
 
             Thread.sleep(100);
         }

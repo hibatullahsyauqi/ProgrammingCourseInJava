@@ -1,3 +1,5 @@
+package com.myapps.rollingdice;
+
 import java.util.Random;
 
 public class RollingDice {

@@ -1,3 +1,5 @@
+package com.myapps.madlibs;
+
 public class StringsProgram {
     public static void main(String[] args) {
         System.out.println("Madlibs!");
