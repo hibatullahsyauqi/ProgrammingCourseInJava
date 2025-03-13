@@ -11,7 +11,6 @@ public class Main {
         // declare variables
         double balance;
         boolean isRunning = true;
-        int
         // display menu
 
         // get and process user's choice
