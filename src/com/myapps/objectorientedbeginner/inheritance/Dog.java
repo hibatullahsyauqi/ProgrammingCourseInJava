@@ -1,6 +1,7 @@
 package com.myapps.objectorientedbeginner.inheritance;
 
 public class Dog extends Animal {
+    // this will be the child class (subclass) of Animal class
 
     int lives = 1;
 
