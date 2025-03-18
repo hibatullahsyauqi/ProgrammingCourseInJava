@@ -1,4 +1,4 @@
-package com.object_oriented_java;
+package com.object_oriented_java.classexample;
 // membuat class sebagai template
 
 class Mahasiswa {
@@ -9,7 +9,7 @@ class Mahasiswa {
     int age;
 }
 
-public class Class1 {
+public class Kampus {
     public static void main(String[] args) {
         // instansiasi object
 
