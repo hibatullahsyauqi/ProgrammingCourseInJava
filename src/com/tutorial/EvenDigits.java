@@ -18,6 +18,9 @@ public class EvenDigits {
 
     static boolean hasEvenDigits(int num) {
         int digits = 0;
+        if (num < 0) {
+            num = -num;
+        }
         while (num > 0) {
             num /= 10;
             digits++;
