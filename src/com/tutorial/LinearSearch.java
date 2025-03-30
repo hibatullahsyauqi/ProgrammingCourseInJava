@@ -9,7 +9,6 @@ public class LinearSearch {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         int[] nums = new int[9];
-        System.out.println("Enter 9 numbers: ");
         for (int i = 0; i < 9; i++) {
             nums[i] = random.nextInt(-100, 100);
         }
